@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "heroku": "^7.65.0"
+  },
+  "name": "heroku-new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajay-Singh-Dhakad/Heroku_file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajay-Singh-Dhakad/Heroku_file/issues"
+  },
+  "homepage": "https://github.com/Ajay-Singh-Dhakad/Heroku_file#readme",
+  "description": ""
+}
